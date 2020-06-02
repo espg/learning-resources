@@ -107,6 +107,14 @@
 * *Affiliation*: [Department of Geophysics, Colorado School of Mines](http://www.minesglaciology.com)
 * *Ask me about*:
 
+## Shane Grigsby
+
+<img src="https://avatars0.githubusercontent.com/u/3896161?s=460&u=3e2701e177fd286fcd853cb4d1cb727e80b1aabc&v=4" alt="picture of Shane Grigsby" width="300" height="300">
+
+* *Affiliation*: [Department of Geophysics, Colorado School of Mines](http://www.minesglaciology.com), [CIRES](https://cires.colorado.edu)
+* *Website*: [espg.github.io](https://espg.github.io)
+* *Ask me about*: Machine Learning, Cloudmasking, Crevasse Detection
+
 ## Nick Holschuh
 
 <img src="../../img/people/NickHolschuh.png" alt="picture of Nick Holschuh" width="300" height="300">
